@@ -12,6 +12,7 @@ remove all the odd elements from the input integer list and print the remaining 
 Sample Output:
 
 Input -> 4,5,8,9,7,3
+
 Output -> 4,8
 
 3. Implement a method named
@@ -22,10 +23,12 @@ double all the even elements from the input integer list and print only the new 
 Sample Output:
 
 Input -> 4,5,8,9,7,3
+
 Output -> 8,16
 
 4. Create a Java class named "TestOperations" with the main method to accept 5
 integer values and save those in an ArrayList.
+
 Pass the user-entered values to the above two methods and display the output
 separately
 
